@@ -1,0 +1,4 @@
+1,Mircea,77723981,Craiova,emailmircea,antrenormircea,parolamircea
+2,Ionut,7738380,Craiova,emailionut,antrenorionut,parolaionut
+3,Ionel,7239791,Bucuresti,emailionel,antrenorionel,parolaionel
+10,numeantrenor,28319213,adresaantrenor,emailantrenor,usernameantrenor,parolaantrenor

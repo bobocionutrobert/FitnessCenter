@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FitnessCenter", "FitnessCenter\FitnessCenter.csproj", "{B499A846-898E-4F3F-9B23-D124C11A5622}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unit-test", "unit-test\unit-test.csproj", "{6856A7F7-E11F-4DCC-BA11-A13D55071735}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B499A846-898E-4F3F-9B23-D124C11A5622}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B499A846-898E-4F3F-9B23-D124C11A5622}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B499A846-898E-4F3F-9B23-D124C11A5622}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B499A846-898E-4F3F-9B23-D124C11A5622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6856A7F7-E11F-4DCC-BA11-A13D55071735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6856A7F7-E11F-4DCC-BA11-A13D55071735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6856A7F7-E11F-4DCC-BA11-A13D55071735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6856A7F7-E11F-4DCC-BA11-A13D55071735}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAFA493B-3769-4F71-81FB-99D37AF25C4C}
+	EndGlobalSection
+EndGlobal

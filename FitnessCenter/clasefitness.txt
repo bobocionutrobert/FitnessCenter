@@ -1,0 +1,4 @@
+1,descriere,tip,nume
+2,desciere2,tip2,nume2
+3,descirere3,tip3,nume
+10,descriereclasa,tipclasa,numeclasa

@@ -1,0 +1,5 @@
+1,membru,213821921,emailmembru,adresamembru,usernamemembru,parolamembru
+2,membru2,21382191,emailmembru2,adresamembru2,usernamemembru2,parolamembru2
+3,membru3,21382121,emailmembru3,adresamembru3,usernamemembru3,parolamembru3
+4,membru4,21381921,emailmembru4,adresamembru4,usernamemembru4,parolamembru4
+10,numemembrunou,28139132,emailmembrunou,adresamemebrunou,usernamemembrunou,parolausernou
