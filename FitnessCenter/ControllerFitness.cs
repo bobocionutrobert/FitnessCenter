@@ -13,7 +13,7 @@ namespace FitnessCenter
         {
             fitness = new List<Fitness>();
 
-
+            load();
         }
 
         public void afisare()
@@ -133,7 +133,7 @@ namespace FitnessCenter
 
         public void load()
         {
-            StreamReader read = new StreamReader(@"C:\Users\catas\Desktop\Full Stack C#\Incapsularea\FitnessCenter\FitnessCenter\clasefitness.txt");
+            StreamReader read = new StreamReader(@"C:\Users\catas\Desktop\FullStackC#\Incapsularea\FitnessCenter\FitnessCenter\clasefitness.txt");
 
             string line = "";
 
