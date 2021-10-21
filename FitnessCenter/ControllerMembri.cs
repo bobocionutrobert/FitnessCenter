@@ -12,7 +12,7 @@ namespace FitnessCenter
         public ControllerMembri()
         {
             membri = new List<Membru>();
-
+            load();
         }
 
         public void afisare()
