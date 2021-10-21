@@ -11,3 +11,16 @@ C:\Users\catas\Desktop\Full Stack C#\Incapsularea\FitnessCenter\FitnessCenter\ob
 C:\Users\catas\Desktop\Full Stack C#\Incapsularea\FitnessCenter\FitnessCenter\obj\Debug\netcoreapp3.1\FitnessCenter.dll
 C:\Users\catas\Desktop\Full Stack C#\Incapsularea\FitnessCenter\FitnessCenter\obj\Debug\netcoreapp3.1\FitnessCenter.pdb
 C:\Users\catas\Desktop\Full Stack C#\Incapsularea\FitnessCenter\FitnessCenter\obj\Debug\netcoreapp3.1\FitnessCenter.genruntimeconfig.cache
+C:\Users\catas\Desktop\FullStackC#\Incapsularea\FitnessCenter\FitnessCenter\bin\Debug\netcoreapp3.1\FitnessCenter.exe
+C:\Users\catas\Desktop\FullStackC#\Incapsularea\FitnessCenter\FitnessCenter\bin\Debug\netcoreapp3.1\FitnessCenter.deps.json
+C:\Users\catas\Desktop\FullStackC#\Incapsularea\FitnessCenter\FitnessCenter\bin\Debug\netcoreapp3.1\FitnessCenter.runtimeconfig.json
+C:\Users\catas\Desktop\FullStackC#\Incapsularea\FitnessCenter\FitnessCenter\bin\Debug\netcoreapp3.1\FitnessCenter.runtimeconfig.dev.json
+C:\Users\catas\Desktop\FullStackC#\Incapsularea\FitnessCenter\FitnessCenter\bin\Debug\netcoreapp3.1\FitnessCenter.dll
+C:\Users\catas\Desktop\FullStackC#\Incapsularea\FitnessCenter\FitnessCenter\bin\Debug\netcoreapp3.1\FitnessCenter.pdb
+C:\Users\catas\Desktop\FullStackC#\Incapsularea\FitnessCenter\FitnessCenter\obj\Debug\netcoreapp3.1\FitnessCenter.csprojAssemblyReference.cache
+C:\Users\catas\Desktop\FullStackC#\Incapsularea\FitnessCenter\FitnessCenter\obj\Debug\netcoreapp3.1\FitnessCenter.AssemblyInfoInputs.cache
+C:\Users\catas\Desktop\FullStackC#\Incapsularea\FitnessCenter\FitnessCenter\obj\Debug\netcoreapp3.1\FitnessCenter.AssemblyInfo.cs
+C:\Users\catas\Desktop\FullStackC#\Incapsularea\FitnessCenter\FitnessCenter\obj\Debug\netcoreapp3.1\FitnessCenter.csproj.CoreCompileInputs.cache
+C:\Users\catas\Desktop\FullStackC#\Incapsularea\FitnessCenter\FitnessCenter\obj\Debug\netcoreapp3.1\FitnessCenter.dll
+C:\Users\catas\Desktop\FullStackC#\Incapsularea\FitnessCenter\FitnessCenter\obj\Debug\netcoreapp3.1\FitnessCenter.pdb
+C:\Users\catas\Desktop\FullStackC#\Incapsularea\FitnessCenter\FitnessCenter\obj\Debug\netcoreapp3.1\FitnessCenter.genruntimeconfig.cache

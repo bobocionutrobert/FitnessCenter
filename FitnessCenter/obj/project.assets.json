@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\catas\\Desktop\\Full Stack C#\\Incapsularea\\FitnessCenter\\FitnessCenter\\FitnessCenter.csproj",
+      "projectUniqueName": "C:\\Users\\catas\\Desktop\\FullStackC#\\Incapsularea\\FitnessCenter\\FitnessCenter\\FitnessCenter.csproj",
       "projectName": "FitnessCenter",
-      "projectPath": "C:\\Users\\catas\\Desktop\\Full Stack C#\\Incapsularea\\FitnessCenter\\FitnessCenter\\FitnessCenter.csproj",
+      "projectPath": "C:\\Users\\catas\\Desktop\\FullStackC#\\Incapsularea\\FitnessCenter\\FitnessCenter\\FitnessCenter.csproj",
       "packagesPath": "C:\\Users\\catas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\catas\\Desktop\\Full Stack C#\\Incapsularea\\FitnessCenter\\FitnessCenter\\obj\\",
+      "outputPath": "C:\\Users\\catas\\Desktop\\FullStackC#\\Incapsularea\\FitnessCenter\\FitnessCenter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

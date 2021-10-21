@@ -6,7 +6,11 @@ namespace FitnessCenter
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            Membru membru = new Membru(1,"nume",293120,"email","adresa","username","parola");
+            ViewMembru view = new ViewMembru(membru);
+
+            view.play();
         }
     }
 }

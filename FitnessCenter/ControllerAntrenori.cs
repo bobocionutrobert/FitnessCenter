@@ -14,7 +14,7 @@ namespace FitnessCenter
         {
             antrenori = new List<Antrenor>();
 
-           
+            load(); 
         }
 
         public void afisare()
@@ -134,7 +134,7 @@ namespace FitnessCenter
 
         public void load()
         {
-            StreamReader read = new StreamReader(@"C:\Users\catas\Desktop\Full Stack C#\Incapsularea\FitnessCenter\FitnessCenter\antrenori.txt");
+            StreamReader read = new StreamReader(@"C:\Users\catas\Desktop\FullStackC#\Incapsularea\FitnessCenter\FitnessCenter\antrenori.txt");
 
             string line = "";
 

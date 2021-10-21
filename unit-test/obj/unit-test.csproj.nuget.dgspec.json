@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\catas\\Desktop\\Full Stack C#\\Incapsularea\\FitnessCenter\\unit-test\\unit-test.csproj": {}
+    "C:\\Users\\catas\\Desktop\\FullStackC#\\Incapsularea\\FitnessCenter\\unit-test\\unit-test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\catas\\Desktop\\Full Stack C#\\Incapsularea\\FitnessCenter\\FitnessCenter\\FitnessCenter.csproj": {
+    "C:\\Users\\catas\\Desktop\\FullStackC#\\Incapsularea\\FitnessCenter\\FitnessCenter\\FitnessCenter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\catas\\Desktop\\Full Stack C#\\Incapsularea\\FitnessCenter\\FitnessCenter\\FitnessCenter.csproj",
+        "projectUniqueName": "C:\\Users\\catas\\Desktop\\FullStackC#\\Incapsularea\\FitnessCenter\\FitnessCenter\\FitnessCenter.csproj",
         "projectName": "FitnessCenter",
-        "projectPath": "C:\\Users\\catas\\Desktop\\Full Stack C#\\Incapsularea\\FitnessCenter\\FitnessCenter\\FitnessCenter.csproj",
+        "projectPath": "C:\\Users\\catas\\Desktop\\FullStackC#\\Incapsularea\\FitnessCenter\\FitnessCenter\\FitnessCenter.csproj",
         "packagesPath": "C:\\Users\\catas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\catas\\Desktop\\Full Stack C#\\Incapsularea\\FitnessCenter\\FitnessCenter\\obj\\",
+        "outputPath": "C:\\Users\\catas\\Desktop\\FullStackC#\\Incapsularea\\FitnessCenter\\FitnessCenter\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\catas\\Desktop\\Full Stack C#\\Incapsularea\\FitnessCenter\\unit-test\\unit-test.csproj": {
+    "C:\\Users\\catas\\Desktop\\FullStackC#\\Incapsularea\\FitnessCenter\\unit-test\\unit-test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\catas\\Desktop\\Full Stack C#\\Incapsularea\\FitnessCenter\\unit-test\\unit-test.csproj",
+        "projectUniqueName": "C:\\Users\\catas\\Desktop\\FullStackC#\\Incapsularea\\FitnessCenter\\unit-test\\unit-test.csproj",
         "projectName": "unit-test",
-        "projectPath": "C:\\Users\\catas\\Desktop\\Full Stack C#\\Incapsularea\\FitnessCenter\\unit-test\\unit-test.csproj",
+        "projectPath": "C:\\Users\\catas\\Desktop\\FullStackC#\\Incapsularea\\FitnessCenter\\unit-test\\unit-test.csproj",
         "packagesPath": "C:\\Users\\catas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\catas\\Desktop\\Full Stack C#\\Incapsularea\\FitnessCenter\\unit-test\\obj\\",
+        "outputPath": "C:\\Users\\catas\\Desktop\\FullStackC#\\Incapsularea\\FitnessCenter\\unit-test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -92,8 +92,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\catas\\Desktop\\Full Stack C#\\Incapsularea\\FitnessCenter\\FitnessCenter\\FitnessCenter.csproj": {
-                "projectPath": "C:\\Users\\catas\\Desktop\\Full Stack C#\\Incapsularea\\FitnessCenter\\FitnessCenter\\FitnessCenter.csproj"
+              "C:\\Users\\catas\\Desktop\\FullStackC#\\Incapsularea\\FitnessCenter\\FitnessCenter\\FitnessCenter.csproj": {
+                "projectPath": "C:\\Users\\catas\\Desktop\\FullStackC#\\Incapsularea\\FitnessCenter\\FitnessCenter\\FitnessCenter.csproj"
               }
             }
           }
