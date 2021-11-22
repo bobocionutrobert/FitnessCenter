@@ -83,5 +83,10 @@ namespace FitnessCenter
 
             return text;
         }
+
+        public string toSave()
+        {
+            return this.idadmin + "," + this.numeadmin + "," + this.telefonadmin + "," + this.username + "," + this.parola + "," + this.admin;
+        }
     }
 }
