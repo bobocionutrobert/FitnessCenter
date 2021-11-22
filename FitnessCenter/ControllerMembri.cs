@@ -49,6 +49,18 @@ namespace FitnessCenter
             return null;
         }
 
+        public Membru returnMembru(string username, string password)
+        {
+            for (int i = 0; i < membri.Count; i++)
+            {
+                if (membri[i].getUsername().Equals(username) == true && membri[i].getParola().Equals(password) == true)
+                {
+                    return membri[i];
+                }
+            }
+            return null;
+        }
+
         public bool add(Membru membru)
         {
             int poz = pozitie(membru.getIdmembru());

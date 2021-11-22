@@ -62,6 +62,18 @@ namespace FitnessCenter
             return null;
         }
 
+        public Antrenor returnAntrenor(string username, string password)
+        {
+            for (int i = 0; i < antrenori.Count; i++)
+            {
+                if (antrenori[i].getUsername().Equals(username) == true && antrenori[i].getParola().Equals(password) == true)
+                {
+                    return antrenori[i];
+                }
+            }
+            return null;
+        }
+
         public bool add(Antrenor antrenor)
         {
 
