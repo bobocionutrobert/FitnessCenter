@@ -13,7 +13,7 @@ namespace FitnessCenter
         {
             admini = new List<Admin>();
 
-
+            load();
         }
 
         public void afisare()
@@ -120,9 +120,9 @@ namespace FitnessCenter
                 int idadmin = Int32.Parse(prop[0]);
                 string numeadmin = prop[1];
                 int telefonadmin = Int32.Parse(prop[2]);
-                string username = prop[4];
-                string parola = prop[5];
-                bool admin = bool.Parse(prop[6]);
+                string username = prop[3];
+                string parola = prop[4];
+                bool admin = bool.Parse(prop[5]);
 
                 Admin adminnou = new Admin(idadmin, numeadmin, telefonadmin, username, parola, admin);
 
