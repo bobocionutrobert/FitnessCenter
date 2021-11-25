@@ -9,6 +9,7 @@ namespace FitnessCenter
 
         private ControllerMembri controlmembru;
         private ControllerAntrenori controlantrenori;
+        private ControllerAdmin controladmin;
 
         public ViewLogin()
         {
@@ -73,6 +74,7 @@ namespace FitnessCenter
 
             Membru p = controlmembru.returnMembru(username, password);
             Antrenor a = controlantrenori.returnAntrenor(username, password);
+            Admin admin = controladmin.returnAdmin(username, password);
 
             if (p != null)
             {
@@ -92,6 +94,13 @@ namespace FitnessCenter
                     u.play();
 
                     Console.WriteLine("autentificat ca antrenor");
+                }else if (admin.getUsername().Equals(username) == true)
+                {
+                    ViewAdmin ad = new ViewAdmin(admin);
+
+                    ad.play();
+
+                    Console.WriteLine("Autentificat cu rolul de admin");
                 }
                 else
                 {
