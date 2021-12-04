@@ -7,12 +7,12 @@ namespace FitnessCenter
 {
     public class ControllerAbonament
     {
-        private List<Abonament> abonamente;
+        private List<Subscription> abonamente;
 
         public ControllerAbonament()
         {
 
-            abonamente = new List<Abonament>();
+            abonamente = new List<Subscription>();
             load();
             
         }
@@ -39,7 +39,7 @@ namespace FitnessCenter
             return -1;
         }
 
-        public Abonament abonament(int idabonament)
+        public Subscription abonament(int idabonament)
         {
             for (int i = 0; i < abonamente.Count; i++)
             {
@@ -52,7 +52,7 @@ namespace FitnessCenter
             return null;
         }
 
-        public bool add(Abonament abonament)
+        public bool add(Subscription abonament)
         {
             int poz = pozitie(abonament.getIdAbonament());
 
@@ -106,7 +106,7 @@ namespace FitnessCenter
                 bool antrenorinclus = bool.Parse(prop[5]);
 
 
-                Abonament abonamentnou = new Abonament(idabonament,numeclient, tipaboanment, valabilitate, pret, antrenorinclus);
+                Subscription abonamentnou = new Subscription(idabonament,numeclient, tipaboanment, valabilitate, pret, antrenorinclus);
 
                 abonamente.Add(abonamentnou);
 
