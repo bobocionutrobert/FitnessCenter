@@ -133,7 +133,7 @@ namespace FitnessCenter
 
         public void load()
         {
-            StreamReader read = new StreamReader(@"C:\Users\catas\Desktop\FullStackC#\Incapsularea\FitnessCenter\FitnessCenter\clasefitness.txt");
+            StreamReader read = new StreamReader(@"C:\Users\catas\Desktop\FullStackC#\Incapsularea\FitnessCenter\FitnessCenter\Resources\clasefitness.txt");
 
             string line = "";
 
@@ -180,7 +180,7 @@ namespace FitnessCenter
 
         public void Save()
         {
-            StreamWriter write = new StreamWriter(@"C:\Users\catas\Desktop\Full Stack C#\Incapsularea\FitnessCenter\FitnessCenter\clasefitness.txt");
+            StreamWriter write = new StreamWriter(@"C:\Users\catas\Desktop\FullStackC#\Incapsularea\FitnessCenter\FitnessCenter\Resources\clasefitness.txt");
 
             write.Write(toSave());
 

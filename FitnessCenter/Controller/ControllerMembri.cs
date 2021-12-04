@@ -173,7 +173,7 @@ namespace FitnessCenter
 
         public void load()
         {
-            StreamReader read = new StreamReader(@"C:\Users\catas\Desktop\FullStackC#\Incapsularea\FitnessCenter\FitnessCenter\membri.txt");
+            StreamReader read = new StreamReader(@"C:\Users\catas\Desktop\FullStackC#\Incapsularea\FitnessCenter\FitnessCenter\Resources\membri.txt");
 
             string line = "";
 
@@ -222,7 +222,7 @@ namespace FitnessCenter
 
         public void Save()
         {
-            StreamWriter write = new StreamWriter(@"C:\Users\catas\Desktop\Full Stack C#\Incapsularea\FitnessCenter\FitnessCenter\membri.txt");
+            StreamWriter write = new StreamWriter(@"C:\Users\catas\Desktop\FullStackC#\Incapsularea\FitnessCenter\FitnessCenter\Resources\membri.txt");
 
             write.Write(toSave());
 
